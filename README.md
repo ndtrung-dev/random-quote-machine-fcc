@@ -1,70 +1,48 @@
-# Getting Started with Create React App
+# random-quote-machine
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a project to fulfiled _Front End Development Libraries_ Course provided by freeCodeCamp.
 
-## Available Scripts
+Goals: Create a random quote generator similar to this: https://random-quote-machine.freecodecamp.rocks/.
 
-In the project directory, you can run:
+In this project, the tech stack ReactJS and SASS.
 
-### `npm start`
+## Requirements:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### Tech stacks:
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+> Using any mix of HTML, Javascript, CSS, Bootstrap, SASS, React, Redux, and jQuery.<br>
+> Andditional tech unlisted are not recommended.
 
-### `npm test`
+### User story:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+> 1. I can see a wrapper element with a corresponding _id="quote-box"_.
+>
+> 1. Within #quote-box, I can see an element with a corresponding _id="text"_.
+>
+> 1. Within #quote-box, I can see an element with a corresponding _id="author"_.
+>
+> 1. Within #quote-box, I can see a clickable element with a corresponding _id="new-quote"_.
+>
+> 1. Within #quote-box, I can see a clickable a element with a corresponding _id="tweet-quote"_.
+>
+> 1. On first load, my quote machine displays a random quote in the element with _id="text"_.
+>
+> 1. On first load, my quote machine displays the random quote's author in the element with _id="author"_.
+>
+> 1. When the #new-quote button is clicked, my quote machine should fetch a new quote and display it in the _#text element_.
+>
+> 1. My quote machine should fetch the new quote's author when the _#new-quote_ button is clicked and display it in the _#author_ element.
+>
+> 1. I can tweet the current quote by clicking on the _#tweet-quote_ a element. This a element should include the "twitter.com/intent/tweet" path in its href attribute to tweet the current quote.
+>
+> 1. The _#quote-box_ wrapper element should be horizontally centered. Please run tests with browser's zoom level at 100% and page maximized.
 
-### `npm run build`
+### Testing tools
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Testing CDN (https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js) is provided by freeCodeCamp
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Result
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+All checkpoint passed!
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Source code uploaded to [github](https://github.com/ndtrung-dev/random-quote-machine). Live preview hosted through [gh-pages](https://ndtrung-dev.github.io/random-quote-machine).

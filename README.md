@@ -5,7 +5,7 @@ This is a project to fulfiled _Front End Development Libraries_ Course provided 
 Goals: Create a random quote generator similar to this: https://random-quote-machine.freecodecamp.rocks/.
 
 In this project, the tech stack was used ReactJS and SASS. <br>
-Check out the live demo [here](https://ndtrung-dev.github.io/random-quote-machine-fcc)
+Check out the live demo [here](https://ndtrung-dev.github.io/random-quote-machine-fcc).
 
 ## Requirements:
 

@@ -4,7 +4,8 @@ This is a project to fulfiled _Front End Development Libraries_ Course provided 
 
 Goals: Create a random quote generator similar to this: https://random-quote-machine.freecodecamp.rocks/.
 
-In this project, the tech stack ReactJS and SASS.
+In this project, the tech stack was used ReactJS and SASS. <br>
+Check out the live demo [here](https://ndtrung-dev.github.io/random-quote-machine-fcc)
 
 ## Requirements:
 
@@ -39,10 +40,12 @@ In this project, the tech stack ReactJS and SASS.
 
 ### Testing tools
 
-Testing CDN (https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js) is provided by freeCodeCamp
+<em>FCC Testing CDN</em> (https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js) is provided by freeCodeCamp
 
 ## Result
 
 All checkpoint passed!
 
-Source code uploaded to [github](https://github.com/ndtrung-dev/random-quote-machine-fcc). Live preview hosted through [gh-pages](https://ndtrung-dev.github.io/random-quote-machine-fcc).
+Source code uploaded to [github](https://github.com/ndtrung-dev/random-quote-machine-fcc).
+
+Live preview hosted through [gh-pages](https://ndtrung-dev.github.io/random-quote-machine-fcc). <em>FCC Testing CDN</em> was embedded. Select <code>random-quote-machine</code> option from dropdown menu to verify the result.

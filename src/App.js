@@ -32,6 +32,7 @@ const App = () => {
 
   useEffect(() => {
     fetchRandomQuote(quotesUrl);
+    return () => {};
   }, []);
 
   async function fetchRandomQuote(url) {
@@ -76,7 +77,6 @@ const App = () => {
               icon={faTwitter}
               className="icon"
               color={`white`}
-              class="icon"
             />
           </a>
           <button

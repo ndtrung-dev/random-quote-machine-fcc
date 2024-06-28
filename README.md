@@ -1,4 +1,4 @@
-# random-quote-machine
+# random-quote-machine-fcc
 
 This is a project to fulfiled _Front End Development Libraries_ Course provided by freeCodeCamp.
 
@@ -45,4 +45,4 @@ Testing CDN (https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js) is
 
 All checkpoint passed!
 
-Source code uploaded to [github](https://github.com/ndtrung-dev/random-quote-machine). Live preview hosted through [gh-pages](https://ndtrung-dev.github.io/random-quote-machine).
+Source code uploaded to [github](https://github.com/ndtrung-dev/random-quote-machine-fcc). Live preview hosted through [gh-pages](https://ndtrung-dev.github.io/random-quote-machine-fcc).
